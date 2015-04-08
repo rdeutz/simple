@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install PUBLIC "-//Joomla! 2.5//DTD template 1.0//EN" "http://www.joomla.org/xml/dtd/2.5/template-install.dtd">
+<extension version="3.1" type="template" client="site">
+	
+	<name>Simple</name>
+	<creationDate>December 2014</creationDate>
+	<author>Robert Deutz</author>
+	<copyright>Robert Deutz</copyright>
+	<authorEmail>rd@rdbs.de</authorEmail>
+	<authorUrl>http://www.rdbs.de</authorUrl>
+	<version>1.0.0</version><!-- give your template a number -->
+	<description><![CDATA[ 
+		<h1>Simple</h1>
+		<p><img src="../templates/simple/template_preview.png" /></p>
+	]]></description>

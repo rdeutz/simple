@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-sym": "0.0.14"
+  }
+}

@@ -1,0 +1,10 @@
+/.idea/
+/vendor
+/css
+/js
+/fonts
+/node_modules
+/assets/bower
+composer.phar
+.DS_Store
+
