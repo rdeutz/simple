@@ -6,7 +6,9 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
-	<jdoc:include type="head" />
+	<!-- jdoc:include type="head" / -->
+
+		<link href="<?php echo $this->baseurl.'/templates/'.$this->template; ?>/css/simple.css" rel="stylesheet" media="screen"/>
 
 	<meta name="description" content="">
 	<meta name="author" content="">

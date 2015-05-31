@@ -2,7 +2,7 @@ var gulp            = require('gulp');
 var sym             = require('gulp-sym');
 
 /* dirs */
-var targetBase     = '../clean';
+var targetBase     = '../site';
 
 gulp.task('mapping', function() {
     var dof = 'templates/simple';
